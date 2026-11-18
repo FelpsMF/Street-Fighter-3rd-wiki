@@ -2,8 +2,8 @@
 ***
 Neste site abordei conteúdos simples do jogo, como:
 * Personagens;
-* Cenarários;
-* História do _game_ e dos _personagens_;
+* Cenários;
+* Estória do _game_ e dos _personagens_;
 * Desenvolvedora;
 * Distribuidoras.
 ***
